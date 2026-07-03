@@ -1,0 +1,14 @@
+﻿Console.Write("Enter the X coordinate of the 1st point: ");
+string userInput = Console.ReadLine();
+double x1 = double.Parse(userInput);
+Console.Write("Enter the Y coordinate of the 1st point: ");
+userInput = Console.ReadLine();
+double y1 = double.Parse(userInput);
+Console.Write("Enter the X coordinate of the 2nd point: ");
+userInput = Console.ReadLine();
+double x2 = double.Parse(userInput);
+Console.Write("Enter the Y coordinate of the 2nd point: ");
+userInput = Console.ReadLine();
+double y2 = double.Parse(userInput);
+double slope = (y2 - y1) / (x2 - x1);
+Console.Write("The slope of the line connecting these two points is: " + slope);

@@ -1,0 +1,8 @@
+"Grants for newuser@%"
+"GRANT USAGE ON *.* TO `newuser`@`%`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`addresses` TO `newuser`@`%`"
+"GRANT SELECT ON `my_guitar_shop`.`categories` TO `newuser`@`%`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`customers` TO `newuser`@`%`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`order_items` TO `newuser`@`%`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`orders` TO `newuser`@`%`"
+"GRANT SELECT ON `my_guitar_shop`.`products` TO `newuser`@`%`"

@@ -1,0 +1,36 @@
+﻿@page
+@model Lesson_11.Pages.Customer.EditModel
+@{
+}
+@if (Model.IsSuccess)
+{
+    <p>
+        @Model.SuccessMessage
+    </p>
+}
+else
+{
+    <form method="post">
+        <div asp-validation-summary="All"></div>
+        <input asp-for="CustomerId" type="hidden" />
+        <div class="form-group">
+            <label asp-for="FirstName"></label><br />
+            <input asp-for="FirstName" class="form-control" /><br />
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName"></label><br />
+            <input asp-for="LastName" class="form-control" /><br />
+        </div>
+        <div class="form-group">
+            <label asp-for="Country"></label><br />
+            <input asp-for="Country" class="form-control" /><br />
+        </div>
+        <div class="form-group">
+            <label asp-for="Email"></label><br />
+            <input asp-for="Email" class="form-control" /><br />
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+}

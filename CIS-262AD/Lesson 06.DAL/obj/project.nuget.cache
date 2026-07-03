@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pGiyfZ7kHE=",
+  "success": true,
+  "projectFilePath": "/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 06.DAL/Lesson 06.DAL.csproj",
+  "expectedPackageFiles": [
+    "/home/blake/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/home/blake/.nuget/packages/microsoft.data.sqlite/8.0.10/microsoft.data.sqlite.8.0.10.nupkg.sha512",
+    "/home/blake/.nuget/packages/microsoft.data.sqlite.core/8.0.10/microsoft.data.sqlite.core.8.0.10.nupkg.sha512",
+    "/home/blake/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/blake/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/home/blake/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/blake/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/blake/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/blake/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/home/blake/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

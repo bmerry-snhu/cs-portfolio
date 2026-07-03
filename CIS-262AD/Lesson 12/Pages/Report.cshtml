@@ -1,0 +1,59 @@
+﻿@page
+@model Lesson_12.Pages.ReportModel
+@{
+}
+<script
+src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.8.0/chart.min.js">
+</script>
+
+<h2>Sales By Country</h2>
+<table>
+    <tr>
+        <th>Country</th>
+        <th>Sales</th>
+    </tr>
+    @foreach(var row in Model.ReportRows)
+    {
+        <tr>
+            <td>@row.Country</td>
+            <td>@row.Total.ToString("C2")</td>
+        </tr>
+    }
+</table>
+<h2>Sales By Country (Pie Chart)</h2>
+    <div style="max-height:300px">
+        <canvas id="myChart">
+
+        </canvas>
+    </div>
+<script>
+let data = @Json.Serialize(Model.ReportRows);
+
+const chartData = {
+      labels: data.map(o => o.country),
+  datasets: [{
+    label: 'Sales By Country',
+    data: data.map(o => o.total),
+    backgroundColor: [
+        'red',
+        'orange',
+        'yellow',
+        'green',
+        'blue',
+        'indigo',
+        'violet'
+    ],
+    hoverOffset: 4
+  }]
+};
+ 
+const config = {
+    type: 'pie',
+    data: chartData,
+    options: {
+        responsive: true,
+        maintainAspectRatio: false
+    }
+}
+new Chart("myChart", config);
+</script>

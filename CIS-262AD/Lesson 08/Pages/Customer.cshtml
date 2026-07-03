@@ -1,0 +1,19 @@
+﻿@page
+@model Lesson_08.Pages.CustomerModel
+@{
+}
+@if (Model.IsSuccess)
+{
+    <p>
+        You Created: @Model.FirstName @Model.LastName (@Model.BusinessName)
+    </p>
+}
+else
+{
+    <form method="post">
+        First Name: <input asp-for="FirstName" /><br />
+        Last Name: <input asp-for="LastName" /><br />
+        Business Name: <input asp-for="BusinessName" /><br />
+        <button>Submit</button>
+    </form>
+}

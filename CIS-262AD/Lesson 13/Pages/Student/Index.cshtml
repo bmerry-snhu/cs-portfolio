@@ -1,0 +1,52 @@
+﻿@page
+@model Lesson_13.Pages.Student.IndexModel
+@{
+}
+<table cellpadding="5">
+    <tr>
+        <th>
+            StudentId
+        </th>
+        <th>
+            FirstName
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            View Exam Scores
+        </th>
+        <th>
+            Edit
+        </th>
+        <th>
+            Delete
+        </th>
+    </tr>
+    @foreach(Lesson_13.DAL.Student student in Model.Students)
+    {
+        <tr>
+            <td>
+                @student.StudentId
+            </td>
+            <td>
+                @student.FirstName
+            </td>
+            <td>
+                @student.LastName
+            </td>
+            <td>
+                <a asp-page="/Exam/Index" asp-route-id="@student.StudentId">View Exam Scores</a>
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@student.StudentId">Edit</a>
+            </td>
+            <td>
+                <a asp-page="./Delete" asp-route-id="@student.StudentId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<div>
+    <a asp-page="./Edit">Add a New Student</a>
+</div>

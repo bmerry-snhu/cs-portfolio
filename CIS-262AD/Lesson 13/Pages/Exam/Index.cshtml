@@ -1,0 +1,58 @@
+﻿@page
+@model Lesson_13.Pages.Exam.IndexModel
+@{
+}
+<table cellpadding="5">
+    <tr>
+        <th>
+            ExamId
+        </th>
+        <th>
+            StudentId
+        </th>
+        <th>
+            Student Name
+        </th>
+        <th>
+            Score
+        </th>
+        <th>
+            View Student Profile
+        </th>
+        <th>
+            Edit
+        </th>
+        <th>
+            Delete
+        </th>
+    </tr>
+    @foreach(Lesson_13.DAL.Exam exam in Model.Exams)
+    {
+        <tr>
+            <td>
+                @exam.ExamId
+            </td>
+            <td>
+                @exam.StudentId
+            </td>
+            <td>
+                @Model.GetStudentName(exam.StudentId)
+            </td>
+            <td>
+                @exam.Score%
+            </td>
+            <td>
+                <a asp-page="/Student/Index" asp-route-id="@exam.StudentId">View Student Profile</a>
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@exam.ExamId">Edit</a>
+            </td>
+            <td>
+                <a asp-page="./Delete" asp-route-id="@exam.ExamId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<div>
+    <a asp-page="./Edit">Add a New Exam</a>
+</div>

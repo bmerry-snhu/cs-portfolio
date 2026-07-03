@@ -1,0 +1,31 @@
+﻿@page
+@model Lesson_09.InvoiceModel
+@{
+}
+@if (Model.IsSuccess)
+{
+    <p>
+        You Created: @Model.Amount.ToString("C") @Model.InvoiceDate.ToShortDateString()
+    </p>
+}
+else
+{
+    <form method="post">
+        <div asp-validation-summary="All"></div>
+        <div class="form-group">
+            <label asp-for="CustomerId"></label><br />
+            <select asp-for="CustomerId" class="form-select" asp-items="Model.CustomerOptions"></select><br />
+        </div>
+        <div class="form-group">
+            <label asp-for="Amount"></label><br />
+            <input asp-for="Amount" class="form-control" type="number" /><br />
+        </div>
+        <div class="form-group">
+            <label asp-for="InvoiceDate"></label><br />
+            <input asp-for="InvoiceDate" class="form-control" type="date" /><br />
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+}

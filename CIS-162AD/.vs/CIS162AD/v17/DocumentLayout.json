@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Blake\\Documents\\School\\2024 Q2\\CIS162AD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{485EA497-5247-4C43-B376-3DFAF697C8E9}|Lesson 12\\Lesson 12.csproj|c:\\users\\blake\\documents\\school\\2024 q2\\cis162ad\\lesson 12\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485EA497-5247-4C43-B376-3DFAF697C8E9}|Lesson 12\\Lesson 12.csproj|solutionrelative:lesson 12\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485EA497-5247-4C43-B376-3DFAF697C8E9}|Lesson 12\\Lesson 12.csproj|c:\\users\\blake\\documents\\school\\2024 q2\\cis162ad\\lesson 12\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{485EA497-5247-4C43-B376-3DFAF697C8E9}|Lesson 12\\Lesson 12.csproj|solutionrelative:lesson 12\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485EA497-5247-4C43-B376-3DFAF697C8E9}|Lesson 12\\Lesson 12.csproj|c:\\users\\blake\\documents\\school\\2024 q2\\cis162ad\\lesson 12\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485EA497-5247-4C43-B376-3DFAF697C8E9}|Lesson 12\\Lesson 12.csproj|solutionrelative:lesson 12\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\School\\2024 Q2\\CIS162AD\\Lesson 12\\FormMain.cs",
+              "RelativeDocumentMoniker": "Lesson 12\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\School\\2024 Q2\\CIS162AD\\Lesson 12\\FormMain.cs",
+              "RelativeToolTip": "Lesson 12\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:37:10.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\School\\2024 Q2\\CIS162AD\\Lesson 12\\FormMain.cs",
+              "RelativeDocumentMoniker": "Lesson 12\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\School\\2024 Q2\\CIS162AD\\Lesson 12\\FormMain.cs [Design]",
+              "RelativeToolTip": "Lesson 12\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:17:12.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "C:\\Users\\Blake\\Documents\\School\\2024 Q2\\CIS162AD\\Lesson 12\\Fraction.cs",
+              "RelativeDocumentMoniker": "Lesson 12\\Fraction.cs",
+              "ToolTip": "C:\\Users\\Blake\\Documents\\School\\2024 Q2\\CIS162AD\\Lesson 12\\Fraction.cs",
+              "RelativeToolTip": "Lesson 12\\Fraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:46:41.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

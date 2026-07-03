@@ -1,0 +1,12 @@
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/bin/Debug/net9.0/BikeShop.DAL.deps.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/bin/Debug/net9.0/BikeShop.DAL.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/bin/Debug/net9.0/BikeShop.DAL.pdb
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/BikeShop.DAL.csproj.AssemblyReference.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/BikeShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/BikeShop.DAL.AssemblyInfoInputs.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/BikeShop.DAL.AssemblyInfo.cs
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/BikeShop.DAL.csproj.CoreCompileInputs.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/BikeShop.DAL.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/refint/BikeShop.DAL.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/BikeShop.DAL.pdb
+/home/blake/Documents/School/2024 Q3/CIS262AD/BikeShop.DAL/obj/Debug/net9.0/ref/BikeShop.DAL.dll

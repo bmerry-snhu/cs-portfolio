@@ -1,0 +1,52 @@
+﻿@page
+@model Lesson_10.Pages.Invoice.IndexModel
+@{
+}
+<table cellpadding="5"->
+    <tr>
+        <th>
+            Invoice Id
+        </th>
+        <th>
+            Customer Id
+        </th>
+        <th>
+            Invoice Date
+        </th>
+        <th>
+            Total
+        </th>
+        <th>
+            Edit
+        </th>
+        <th>
+            Delete
+        </th>
+    </tr>
+    @foreach (Lesson_10.DAL.Invoice invoice in Model.Invoices)
+    {
+        <tr>
+            <td>
+                @invoice.InvoiceId
+            </td>
+            <td>
+                @invoice.CustomerId
+            </td>
+            <td>
+                @invoice.InvoiceDate.ToShortDateString()
+            </td>
+            <td>
+                @invoice.Total.ToString("C")
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@invoice.InvoiceId">Edit</a>
+            </td>
+            <td>
+                <a asp-page="./Delete" asp-route-id="@invoice.InvoiceId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<div>
+    <a asp-page="./Edit">Add a New Invoice</a>
+</div>

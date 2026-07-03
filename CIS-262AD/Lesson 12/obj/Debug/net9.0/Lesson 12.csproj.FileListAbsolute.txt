@@ -1,0 +1,127 @@
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.csproj.AssemblyReference.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.GeneratedMSBuildEditorConfig.editorconfig
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.AssemblyInfoInputs.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.AssemblyInfo.cs
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.csproj.CoreCompileInputs.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.MvcApplicationPartsAssemblyInfo.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.RazorAssemblyInfo.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.RazorAssemblyInfo.cs
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/appsettings.Development.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/appsettings.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12.staticwebassets.runtime.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12.staticwebassets.endpoints.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12.deps.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12.runtimeconfig.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12.pdb
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Dapper.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12.DAL.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/bin/Debug/net9.0/Lesson 12.DAL.pdb
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/scopedcss/bundle/Lesson 12.styles.css
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/scopedcss/projectbundle/Lesson 12.bundle.scp.css
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/05gpl1b3fq-b9sayid5wm.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/yu006rptlv-61n19gt1b8.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/ieq861pecn-xtxxf3hu2r.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/5bsc6zas1j-bqjiyaj88i.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/37etolauir-c2jlpeoesf.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/oohihbasqz-erw9l3u2r3.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/nauhxfia0g-aexeepp0ev.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/y3ldkonccu-d7shbmvgxk.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/nye7kbqnea-ausgxo2sd3.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/l9ot7tu4y4-k8d9w2qqmf.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/39umeffilj-cosvhxvwiu.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/uh12vj5pic-ub07r2b239.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/7b0r1y3kd5-fvhpjtyr6v.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/avj87ddcw9-b7pk76d08c.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/hxr5kwuj98-fsbi9cje9m.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/y6objjdtyu-rzd6atqjts.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/fimcebtvnt-ee0r1s7dh0.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/j3hdfj15q2-dxx9fxp4il.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/vyr5656n8s-jd9uben2k1.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/ghp1air51c-khv3u5hwcm.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/ehr6p8k297-r4e9w2rdcm.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/57jp2vo0r6-lcd1t2u6c8.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/i6dxbw1wxt-c2oey78nd0.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/q24spal6zd-tdbxkamptv.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/4njjk7ao0l-j5mq2jizvt.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/bk3xrkxv97-06098lyss8.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/jl8n9m54cf-nvvlpmu67g.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/3fipvowluz-s35ty4nyc5.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/wpuapkvclx-pj5nd1wqec.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/lkrg0as1nu-46ein0sx1k.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/saiehcx5ya-v0zj4ognzu.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/yy7814ebaq-37tfw0ft22.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/bm4xu54zr2-hrwsygsryq.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/cqmijea0p9-pk9g2wxc8p.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/n70z7259p1-ft3s53vfgj.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/oezwb5ksfv-6cfz1n2cew.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/qsf9twmzt9-6pdc2jztkx.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/kkeza3i5n3-493y06b0oq.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/qdaow27560-iovd86k7lj.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/4swyjc9w6z-vr1egmr9el.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/jwtvznp4x1-kbrnm935zg.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/x60axkwrgp-jj8uyg4cgr.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/kej29hxpx4-y7v9cxd14o.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/sbex3y1g0z-notf2xhcfb.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/lghnmvefp6-h1s4sie4z3.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/h5jctb2fi3-63fj8s7r0e.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/kgailrwdzm-0j3bgjxly4.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/36ogjarnoi-47otxtyo56.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/vhmls9ynab-4v8eqarkd7.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/wg6bvm7zub-356vix0kms.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/6skfyonode-83jwlth58m.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/cs7vwghafw-mrlpezrjn3.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/rc8fr1qvrf-lzl9nlhx6b.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/va4uh2cnx9-ag7o75518u.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/6uyahhjgr1-x0q3zqp4vz.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/r7oc19lxij-0i3buxo5is.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/ljgziivcef-o1o13a6vjx.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/4pdq82b19j-ttgo8qnofa.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/ch465rcyr9-2z0ns9nrw6.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/hwsba7c449-muycvpuwrr.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/gzecsx2u77-87fc7y1x7t.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/15w36pjz4v-mlv21k5csn.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/gkp59xu151-vur88wp8js.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/compressed/qq6yftflno-vur88wp8js.gz
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets.build.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets.development.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets/msbuild.Lesson 12.Microsoft.AspNetCore.StaticWebAssets.props
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets/msbuild.Lesson 12.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets/msbuild.build.Lesson 12.props
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Lesson 12.props
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Lesson 12.props
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/staticwebassets.pack.json
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.csproj.Up2Date
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/refint/Lesson 12.dll
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.pdb
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/Lesson 12.genruntimeconfig.cache
+/home/blake/Documents/School/2024 Q3/CIS262AD/Lesson 12/obj/Debug/net9.0/ref/Lesson 12.dll

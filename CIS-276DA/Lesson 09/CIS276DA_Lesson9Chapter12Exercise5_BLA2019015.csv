@@ -1,0 +1,123 @@
+vendor_id,vendor_address1,vendor_address2,vendor_city,vendor_state,vendor_zip_code
+1,"Attn:  Supt. Window Services","PO Box 7005",Madison,WI,53707
+2,"PO Box 96621",NULL,Washington,DC,20120
+3,"Library Of Congress",NULL,Washington,DC,20559
+4,"1990 Westwood Blvd Ste 260",NULL,"Los Angeles",CA,90025
+5,"3000 Cindel Drive",NULL,Washington,NJ,07882
+6,"3255 Ramos Cir",NULL,Sacramento,CA,95827
+7,"Kevin Minder","3441 W Macarthur Blvd","Santa Ana",CA,92704
+8,"PO Box 9369",NULL,Fresno,CA,93792
+9,"Box 52001",NULL,"San Francisco",CA,94152
+10,"4669 N Fresno",NULL,Fresno,CA,93726
+11,"4583 E Home",NULL,Fresno,CA,93703
+12,"PO Box 2069",NULL,Fresno,CA,93718
+13,"PO Box 85826",NULL,"San Diego",CA,92186
+14,"4420 N. First Street, Suite 108",NULL,Fresno,CA,93726
+15,"1528 N Sierra Vista",NULL,Fresno,CA,93703
+16,NULL,NULL,Fresno,CA,93888
+17,"27371 Valderas",NULL,"Mission Viejo",CA,92691
+18,"1952 "H" Street","P.O. Box 1952",Fresno,CA,93718
+19,"1730 "H" St",NULL,Fresno,CA,93721
+20,"2632 Saturn St",NULL,Brea,CA,92621
+21,"7700 Forsyth",NULL,"St Louis",MO,63105
+22,"1555 W Lane Ave",NULL,Columbus,OH,43221
+23,"3711 W Franklin",NULL,Fresno,CA,93706
+24,"4221 W Sierra Madre #104",NULL,Washington,IA,52353
+25,"2818 E Hamilton",NULL,Fresno,CA,93721
+26,"121 E Front St - 4th Floor",NULL,"Traverse City",MI,49684
+27,"12 Daniel Road",NULL,Fairfield,NJ,07004
+29,"PO Box 3100",NULL,Gardena,CA,90247
+30,"Fresno Warehouse","4500 W Shaw",Fresno,CA,93711
+31,"1483 Chain Bridge Rd, Ste 202",NULL,Mclean,VA,22101
+32,"PO Box 31",NULL,"East Brunswick",NJ,08810
+33,"Ohio Valley Litho Division","Location #0470",Cincinnati,OH,45264
+34,"PO Box 61000",NULL,"San Francisco",CA,94161
+35,"PO Box 956",NULL,Selma,CA,93662
+36,"PO Box 2808",NULL,Fresno,CA,93745
+37,"PO Box 9061",NULL,Oxnard,CA,93031
+38,"60 Madison Ave",NULL,"New York",NY,10010
+39,"PO Box 7028",NULL,"St Louis",MO,63177
+40,"500 East Lorain Street",NULL,Oberlin,OH,44074
+41,"415 E Olive Ave",NULL,Fresno,CA,93728
+42,"1033 N Sycamore Ave.",NULL,"Los Angeles",CA,90038
+43,"PO Box 39046",NULL,Minneapolis,MN,55439
+44,"PO Box 5317",NULL,Boston,MA,02206
+45,"PO Box 40513",NULL,Jacksonville,FL,32231
+46,"Book Marketing Update","PO Box 205",Fairfield,IA,52556
+47,"Five Lakepointe Plaza, Ste 500","2709 Water Ridge Parkway",Charlotte,NC,28217
+48,"PO Box 1192",NULL,Fresno,CA,93715
+49,"PO Box 87373",NULL,Chicago,IL,60680
+50,"Box 1979",NULL,Marion,OH,43305
+51,"PO Box 7021",NULL,Anaheim,CA,92850
+52,"Accounts Payable","1150 N Tustin Ave",Anaheim,CA,92807
+53,"3649 W Beechwood Ave #101",NULL,Fresno,CA,93711
+54,"2384 E Gettysburg",NULL,Fresno,CA,93726
+55,"PO Box 95857",NULL,Chicago,IL,60694
+56,"PO Box 7247-7051",NULL,Philadelphia,PA,19170
+57,"117 W Micheltorena Top Floor",NULL,"Santa Barbara",CA,93101
+58,"4718 N Bendel Ave",NULL,Fresno,CA,93722
+59,"627 Aviation Way",NULL,"Manhatttan Beach",CA,90266
+60,"PO Box 1550",NULL,"New Rochelle",NY,10802
+61,"828 S Broadway",NULL,Tarrytown,NY,10591
+62,"PO Box 2283",NULL,Boston,MA,02107
+63,"722 E Olive Ave",NULL,Fresno,CA,93728
+64,"PO Box 6070",NULL,Inglewood,CA,90312
+65,"PO Box 4758",NULL,"Carol Stream",IL,60197
+66,"PO Box 895",NULL,Shelton,CT,06484
+67,"Secretary Of State","PO Box 944230",Sacramento,CA,94244
+68,"3502 W Greenway #7",NULL,Phoenix,AZ,85023
+69,"2437 N Sunnyside",NULL,Fresno,CA,93727
+70,"PO Box 942",NULL,Fresno,CA,93714
+71,"1626 E Street",NULL,Fresno,CA,93786
+72,"4545 Glenmeade Lane",NULL,"Auburn Hills",MI,48326
+73,"353 E Shaw Ave",NULL,Fresno,CA,93710
+74,"PO Box 610",NULL,Olathe,KS,66061
+75,"6435 North Palm Ave, Ste 101",NULL,Fresno,CA,93704
+76,"4 Cornwall Dr Ste 102",NULL,"East Brunswick",NJ,08816
+77,"PO Box 942808",NULL,Sacramento,CA,94208
+78,"1627 "E" Street",NULL,Fresno,CA,93706
+79,"PO Box 12332",NULL,Fresno,CA,93777
+80,"P O Box 7247-7844",NULL,Philadelphia,PA,19170
+81,"P.O. Box 21209",NULL,Pasadena,CA,91185
+82,"2021 K Street Nw",NULL,Washington,DC,20006
+83,"PO Box 845361",NULL,Dallas,TX,75284
+84,"1300 Virginia Dr. Ste 400",NULL,"Fort Washington",PA,19034
+85,"3250 Spring Grove Ave",NULL,Cincinnati,OH,45225
+86,"Department #1872","PO Box 61000","San Francisco",CA,94161
+87,"PO Box 942894",NULL,Sacramento,CA,94294
+88,"4775 E Miami River Rd",NULL,Cleves,OH,45002
+89,"4918 Taylor Ct",NULL,Turlock,CA,95380
+90,"295 W Cromwell Ave Ste 106",NULL,Fresno,CA,93711
+91,"P O Box 7126",NULL,Pasadena,CA,91109
+92,"PO Box 12332",NULL,Fresno,CA,93777
+93,"PO Box 78225",NULL,Phoenix,AZ,85062
+94,"4150 W Shaw Ave",NULL,Fresno,CA,93722
+95,NULL,NULL,Sacramento,CA,95887
+96,"Business Mastercard","P.O. Box 29479",Phoenix,AZ,85038
+97,"Dept L-742",NULL,Columbus,OH,43260
+98,"Box 0001",NULL,"Los Angeles",CA,90096
+99,"28210 N Avenue Stanford",NULL,Valencia,CA,91355
+100,"Citibank Lock Box 4026","8725 W Sahara Zone 1127","The Lake",NV,89163
+101,"Gallery Plz","5091 N Fresno",Fresno,CA,93710
+102,"PO Box 1091",NULL,Fresno,CA,93714
+103,"9 River Pk Pl E 400",NULL,Boston,MA,02134
+104,"5070 N Sixth Ste. 71",NULL,Fresno,CA,93711
+105,"7112 N Fresno St Ste 200",NULL,Fresno,CA,93720
+106,"Dept 0419",NULL,"Los Angeles",CA,90084
+107,"PO Box 942857",NULL,Sacramento,CA,94257
+108,"427 W Bedford #102",NULL,Fresno,CA,93711
+109,"File No 72686","PO Box 61000","San Francisco",CA,94160
+110,"5411 Jackson Road","PO Box 1124","Ann Arbor",MI,48106
+111,"1315 Van Ness Ave Ste. 103",NULL,Fresno,CA,93721
+112,"File No 81901",NULL,"Los Angeles",CA,90074
+113,"4697 W Jacquelyn Ave",NULL,Fresno,CA,93722
+114,"Postage Due Technician","1900 E Street",Fresno,CA,93706
+115,"Dept La 21095",NULL,Pasadena,CA,91185
+116,"Employment Development Dept","PO Box 826276",Sacramento,CA,94230
+117,"2874 S Cherry Ave",NULL,Fresno,CA,93706
+118,"P.O. Box 860070",NULL,Pasadena,CA,91186
+119,"PO Box 2061",NULL,Fresno,CA,93718
+120,"1617 W. Shaw Avenue","Suite F",Fresno,CA,93711
+121,"3467 W Shaw Ave #103",NULL,Fresno,CA,93711
+122,"P.O. Box 505820",NULL,Reno,NV,88905
+123,"P.O. Box 1140","Dept A",Memphis,TN,38101

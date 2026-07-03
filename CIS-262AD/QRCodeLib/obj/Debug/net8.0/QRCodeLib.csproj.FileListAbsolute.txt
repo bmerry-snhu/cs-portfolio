@@ -1,0 +1,24 @@
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\bin\Debug\net8.0\QRCodeLib.deps.json
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\bin\Debug\net8.0\QRCodeLib.dll
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\bin\Debug\net8.0\QRCodeLib.pdb
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\QRCodeLib.csproj.AssemblyReference.cache
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\QRCodeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\QRCodeLib.AssemblyInfoInputs.cache
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\QRCodeLib.AssemblyInfo.cs
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\QRCodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\QRCodeLib.dll
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\refint\QRCodeLib.dll
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\QRCodeLib.pdb
+C:\Users\Blake\source\repos\CIS262AD\Lesson 04.QRCodeGen\obj\Debug\net8.0\ref\QRCodeLib.dll
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\bin\Debug\net8.0\QRCodeLib.deps.json
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\bin\Debug\net8.0\QRCodeLib.dll
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\bin\Debug\net8.0\QRCodeLib.pdb
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\QRCodeLib.csproj.AssemblyReference.cache
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\QRCodeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\QRCodeLib.AssemblyInfoInputs.cache
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\QRCodeLib.AssemblyInfo.cs
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\QRCodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\QRCodeLib.dll
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\refint\QRCodeLib.dll
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\QRCodeLib.pdb
+C:\Users\Blake\source\repos\CIS262AD\QRCodeLib\obj\Debug\net8.0\ref\QRCodeLib.dll

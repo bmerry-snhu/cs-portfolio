@@ -1,0 +1,71 @@
+﻿@page
+@model Lesson_13.Pages.ReportModel
+@{
+}
+<script
+src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.8.0/chart.min.js">
+</script>
+
+<h2>Exams by Letter Grade</h2>
+<table>
+    <tr>
+        <th>Letter Grade</th>
+        <th># of Exams</th>
+    </tr>
+    @foreach(var row in Model.ReportRows)
+    {
+        <tr>
+            <td>@row.LetterGrade</td>
+            <td>@row.NumberOfExams.ToString()</td>
+        </tr>
+    }
+    <tr>
+        <th>Total</th>
+        <td>@Model.TotalExams</td>
+    </tr>
+</table>
+<hr />
+<h2>Exams by Letter Grade (Bar Chart)</h2>
+    <div style="max-width: 650px; max-height: 650px;">
+        <canvas id="myChart"></canvas>
+        <div class="text-center">
+            <p>Total: @Model.TotalExams</p>
+        </div>
+    </div>
+<script>
+let data = @Json.Serialize(Model.ReportRows);
+
+const chartData = {
+    labels: data.map(o => o.letterGrade),
+    datasets: [{
+        label: 'Exams by Letter Grade',
+        data: data.map(o => o.numberOfExams),
+        backgroundColor: [
+            'rgba(0, 128, 0, 0.2)',
+            'rgba(128, 128, 0, 0.2)',
+            'rgba(255, 165, 0, 0.2)',
+            'rgba(255, 0, 0, 0.2)',
+            'rgba(139, 0, 0, 0.2)'
+        ],
+        borderColor: [
+            'rgb(0, 128, 0)',
+            'rgb(128, 128, 0)',
+            'rgb(255, 165, 0)',
+            'rgb(255, 0, 0)',
+            'rgb(139, 0, 0)'
+        ],
+        borderWidth: 2,
+        hoverOffset: 4
+    }]
+};
+ 
+const config = {
+    type: 'bar',
+    data: chartData,
+    options: {
+        responsive: true,
+        AspectRatio: 1
+    }
+}
+new Chart("myChart", config);
+</script>
