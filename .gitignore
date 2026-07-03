@@ -1,0 +1,14 @@
+# Compiled Java artifacts
+*.class
+bin/
+
+# VS Code
+.vscode/
+
+# Eclipse metadata
+.project
+.classpath
+.settings/
+
+# macOS
+.DS_Store
