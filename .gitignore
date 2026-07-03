@@ -1,14 +1,37 @@
-# Compiled Java artifacts
-*.class
+# =========================
+# Build output
+# =========================
 bin/
+obj/
+out/
+target/
+
+# Compiled artifacts
+*.class
+*.dll
+*.exe
+*.pdb
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+
+# JetBrains
+.idea/
 
 # VS Code
 .vscode/
 
-# Eclipse metadata
+# Eclipse
+.settings/
 .project
 .classpath
-.settings/
 
-# macOS
+# =========================
+# Operating systems
+# =========================
 .DS_Store
+Thumbs.db
