@@ -1,5 +1,0 @@
-C:\Users\Blake\Downloads\Lesson 12.exe
-C:\Users\Blake\Downloads\Lesson 12.dll
-C:\Users\Blake\Downloads\Lesson 12.deps.json
-C:\Users\Blake\Downloads\Lesson 12.runtimeconfig.json
-C:\Users\Blake\Downloads\Lesson 12.pdb
