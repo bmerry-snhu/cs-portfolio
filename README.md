@@ -22,3 +22,34 @@ This repository includes work from courses covering topics such as:
 ## Repository Organization
 
 Each course has its own directory containing the relevant source code, documentation, diagrams, and project deliverables.
+
+Whenever practical, only source files and documentation are included. Generated build artifacts, IDE metadata, and other temporary files are intentionally excluded.
+
+## Development Environment
+
+Most projects are developed using modern open-source tools, including:
+
+- Fedora Linux
+- Visual Studio Code
+- OpenJDK
+- .NET
+- Git & GitHub
+- Docker (where applicable)
+
+Development environments may vary depending on the requirements of a particular course.
+
+## Purpose
+
+This repository serves as both:
+
+- A long-term archive of my technical coursework.
+- A portfolio demonstrating my progression through computer science, information technology, and cybersecurity.
+
+As my education continues, this repository will grow to include increasingly complex projects, culminating in my senior capstone.
+
+---
+
+**Author:** Blake Merry  
+**Program:** Bachelor of Science in Computer Science  
+**Concentration:** Information Security  
+**University:** Southern New Hampshire University
